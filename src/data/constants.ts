@@ -41,7 +41,8 @@ export const SKILLS: Record<SkillNames, Skill> = {
     id: 1,
     name: "js",
     label: "JavaScript",
-    shortDescription: "A versatile language used across modern web applications",
+    shortDescription:
+      "A versatile language used across modern web applications",
     color: "#f0db4f",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
   },
@@ -49,7 +50,8 @@ export const SKILLS: Record<SkillNames, Skill> = {
     id: 2,
     name: "ts",
     label: "TypeScript",
-    shortDescription: "A strongly typed superset of JavaScript for safer development",
+    shortDescription:
+      "A strongly typed superset of JavaScript for safer development",
     color: "#007acc",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
   },
@@ -81,7 +83,8 @@ export const SKILLS: Record<SkillNames, Skill> = {
     id: 6,
     name: "nextjs",
     label: "Next.js",
-    shortDescription: "A React framework for full stack and production ready applications",
+    shortDescription:
+      "A React framework for full stack and production ready applications",
     color: "#fff",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
   },
@@ -89,7 +92,8 @@ export const SKILLS: Record<SkillNames, Skill> = {
     id: 7,
     name: "tailwind",
     label: "Tailwind CSS",
-    shortDescription: "A utility first CSS framework for fast and consistent interfaces",
+    shortDescription:
+      "A utility first CSS framework for fast and consistent interfaces",
     color: "#38bdf8",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
   },
@@ -121,7 +125,8 @@ export const SKILLS: Record<SkillNames, Skill> = {
     id: 11,
     name: "mongodb",
     label: "MongoDB",
-    shortDescription: "A document oriented NoSQL database for flexible data models",
+    shortDescription:
+      "A document oriented NoSQL database for flexible data models",
     color: "#4db33d",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
   },
@@ -129,7 +134,8 @@ export const SKILLS: Record<SkillNames, Skill> = {
     id: 12,
     name: "git",
     label: "Git",
-    shortDescription: "Distributed version control for reliable software development",
+    shortDescription:
+      "Distributed version control for reliable software development",
     color: "#f1502f",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
   },
@@ -137,7 +143,8 @@ export const SKILLS: Record<SkillNames, Skill> = {
     id: 13,
     name: "github",
     label: "GitHub",
-    shortDescription: "A platform for source control collaboration and software delivery",
+    shortDescription:
+      "A platform for source control collaboration and software delivery",
     color: "#000000",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
   },
@@ -145,7 +152,8 @@ export const SKILLS: Record<SkillNames, Skill> = {
     id: 14,
     name: "docker",
     label: "Docker",
-    shortDescription: "Containerization for consistent development and deployment environments",
+    shortDescription:
+      "Containerization for consistent development and deployment environments",
     color: "#2496ed",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
   },
@@ -161,7 +169,8 @@ export const SKILLS: Record<SkillNames, Skill> = {
     id: 16,
     name: "linux",
     label: "Linux",
-    shortDescription: "An open source operating system widely used for servers and infrastructure",
+    shortDescription:
+      "An open source operating system widely used for servers and infrastructure",
     color: "#fff",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg",
   },
@@ -169,7 +178,8 @@ export const SKILLS: Record<SkillNames, Skill> = {
     id: 17,
     name: "laravel",
     label: "Laravel",
-    shortDescription: "A PHP framework for structured and maintainable web applications",
+    shortDescription:
+      "A PHP framework for structured and maintainable web applications",
     color: "#ff2d20",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg",
   },
@@ -177,7 +187,8 @@ export const SKILLS: Record<SkillNames, Skill> = {
     id: 18,
     name: "python",
     label: "Python",
-    shortDescription: "A general purpose language widely used in automation data and AI",
+    shortDescription:
+      "A general purpose language widely used in automation data and AI",
     color: "#3776ab",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
   },
@@ -185,7 +196,8 @@ export const SKILLS: Record<SkillNames, Skill> = {
     id: 19,
     name: "dotnet",
     label: ".NET Core",
-    shortDescription: "A cross platform framework for building modern applications",
+    shortDescription:
+      "A cross platform framework for building modern applications",
     color: "#512bd4",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg",
   },
@@ -201,7 +213,8 @@ export const SKILLS: Record<SkillNames, Skill> = {
     id: 21,
     name: "redis",
     label: "Redis",
-    shortDescription: "An in memory data store commonly used for caching and fast data access",
+    shortDescription:
+      "An in memory data store commonly used for caching and fast data access",
     color: "#dc382d",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg",
   },
@@ -217,7 +230,8 @@ export const SKILLS: Record<SkillNames, Skill> = {
     id: 23,
     name: "csharp",
     label: "C# / .NET",
-    shortDescription: "A modern object oriented language for application development",
+    shortDescription:
+      "A modern object oriented language for application development",
     color: "#9b4993",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg",
   },
@@ -233,7 +247,8 @@ export const SKILLS: Record<SkillNames, Skill> = {
     id: 25,
     name: "prettier",
     label: "Prettier",
-    shortDescription: "An opinionated code formatter for consistent source code",
+    shortDescription:
+      "An opinionated code formatter for consistent source code",
     color: "#f7b93e",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg",
   },
@@ -241,7 +256,8 @@ export const SKILLS: Record<SkillNames, Skill> = {
     id: 26,
     name: "aws",
     label: "AWS",
-    shortDescription: "A major cloud platform for infrastructure and application services",
+    shortDescription:
+      "A major cloud platform for infrastructure and application services",
     color: "#ff9900",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
   },
@@ -249,7 +265,8 @@ export const SKILLS: Record<SkillNames, Skill> = {
     id: 27,
     name: "firebase",
     label: "Firebase",
-    shortDescription: "A backend as a service platform for application development",
+    shortDescription:
+      "A backend as a service platform for application development",
     color: "#ffca28",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
   },
@@ -268,17 +285,22 @@ export type Experience = {
 export const EXPERIENCE: Experience[] = [
   {
     id: 1,
+
     startDate: "3+ Years",
     endDate: "Present",
-    title: "Software Engineering ",
+
+    title: "Software Engineer",
+
     company: "Backend Engineering & Cloud Computing",
+
     description: [
-      "3+ years of software development experience through continuous learning, hands-on projects, and practical application. ,
-      "Focused on backend engineering, APIs, system design, and scalable architectures. ",
+      "3+ years of software development experience through continuous learning, hands-on projects, and practical application.",
+      "Focused on backend engineering, APIs, system design, and scalable architectures.",
       "Experienced with JavaScript, Go, Rust, C, C++, PHP, Laravel, PostgreSQL, MongoDB, Docker, Kubernetes, and CI/CD.",
       "Strong understanding of software architecture, performance optimization, and clean maintainable code.",
       "Cloud computing fundamentals and deployment experience without specializing in cloud engineering.",
     ],
+
     skills: [
       SkillNames.REACT,
       SkillNames.LARAVEL,
